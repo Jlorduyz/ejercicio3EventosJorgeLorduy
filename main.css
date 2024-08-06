@@ -1,0 +1,18 @@
+.footer {
+  height: 60px;
+  border-top: 1px solid black;
+  background: linear-gradient(rgb(3, 3, 7), 45%, rgb(27, 57, 102));
+}
+
+.tarjetaAncho {
+  width: 18rem;
+}
+
+.notasSize {
+  width: 18rem;
+  min-height: 15rem;
+}
+
+.sizeCreate {
+  max-height: 25rem;
+}
