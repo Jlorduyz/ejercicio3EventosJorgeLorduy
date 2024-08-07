@@ -16,3 +16,8 @@
 .sizeCreate {
   max-height: 25rem;
 }
+
+.realizada {
+  text-decoration: line-through;
+  color: red;
+}
